@@ -1,0 +1,20 @@
+-Thank's for downloading my car !-    // Porsche Cayenne SCPD by Game68240//
+
+-------------------------------------------------------------------------------------------------------------
+INSTRUCTIONS TO INSTALL--------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+
+Go to: GTA V \ mods \ update \ x64 \ dlcpacks \ patchday3ng \ dlc.rpf \ x64 \ levels \ gta5 \ vehicles.rpf
+                                                    Here replace "sheriff2.ytd" / "sheriff2+hi.ytd" / "sheriff2.yft" / "sheriff2_hi.yft" by mine.
+
+PAINT 2: Wheels
+
+TEMPLATE INSTRUCTION: If you want a custom skin, open template.png by drag and drop on photoshop, then make your skin over it,
+                      when you have finish, remove the background and save your skin in .PNG, then go to baller.ytd file in
+                      OpenIV, find texture "template" and replace it by your, click "save", it's done. 
+
+-------------------------------------------------------------------------------------------------------------
+MY YOUTUBE CHANNEL BASED ON PERFECT REMAKE ON GTA V----------www.youtube.com/c/VinewoodProdOfficial----------
+-------------------------------------------------------------------------------------------------------------
+MY YOUTUBE CHANNEL OF TUTORIAL IN ANDROID AND PC-------------www.youtube.com/c/Game68240---------------------
+-------------------------------------------------------------------------------------------------------------
